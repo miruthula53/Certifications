@@ -2,7 +2,7 @@
 Covered:
       Variables,functions,loops
       OOP concepts
-      Basic problem solving
+      Basic problem solving.
 Applied in: Library management system project
 
 ## Data Analysis using Excel - Great Learning
