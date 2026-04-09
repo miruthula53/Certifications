@@ -3,7 +3,7 @@ Covered:
       Variables,functions,loops,
       OOP concepts,
       Basic problem solving.
-Applied in: Library management system project.
+Applied in: Data-Driven Library Management and Analytics System project.
 
 ## Data Analysis using Excel - Great Learning
 Covered:
