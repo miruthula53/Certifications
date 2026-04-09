@@ -14,4 +14,8 @@ Covered:
 ## SQL (Intermediate) - HackerRank  
 Covered:  
       Joins, Aggregations, NULL handling,
-      Data Formatting, Sorting, Relational Data Understanding, Ouery Design.
+      Data Formatting, Sorting, 
+      Relational Data Understanding, Ouery Design.
+Applied Joins, Aggregations and NULL Handling in Data-Driven Library Management and Analytics System project.
+
+      
