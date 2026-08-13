@@ -15,8 +15,13 @@ Covered:
 Covered:  
       Joins, Aggregations, NULL handling,
       Data Formatting, Sorting, 
-      Relational Data Understanding, Ouery Design.
+      Relational Data Understanding,Ouery Design.
       
 Applied Joins, Aggregations and NULL Handling in Data-Driven Library Management and Analytics System project.
+
+## Introduction to IOT - NPTEL
+Covered: 
+      IOT Architecture, Sensors,                 Microcontrollers, Communication            Protocols,Real-time Data Processing. 
+
 
       
